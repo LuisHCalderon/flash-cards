@@ -1,4 +1,4 @@
-# FlashCards v. 1.8 📚✨
+# FlashCards v. 1.9 📚✨
 ![image](https://github.com/user-attachments/assets/47042173-f52c-45ec-8aab-64b6b0f000f1)
 ![image](https://github.com/user-attachments/assets/99fd3403-dd43-4cb9-8c1f-e3b90a46c1c2)
 ![image](https://github.com/user-attachments/assets/0156cb50-855d-432f-8e08-3ad5f276ece8)
