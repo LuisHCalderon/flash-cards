@@ -1,10 +1,10 @@
-# FlashCard v. 1.8 📚✨
+# FlashCards v. 1.8 📚✨
 ![image](https://github.com/user-attachments/assets/45ccee57-c8d8-4ad0-b451-71068375551d)
 ![image](https://github.com/user-attachments/assets/14e0159b-ed33-4677-a668-bafabd159109)
 ![image](https://github.com/user-attachments/assets/1061a17d-0265-46d3-9d18-918f9b3cef46)
 ![image](https://github.com/user-attachments/assets/89cc7de2-b51a-4788-a536-679b497a1b07)
 
-Potencia tu aprendizaje con FlashCard, la herramienta definitiva para crear, gestionar y estudiar de manera eficiente.
+Potencia tu aprendizaje con FlashCards, la herramienta definitiva para crear, gestionar y estudiar de manera eficiente.
 
 ## 🚀 Características Principales
 
@@ -14,20 +14,20 @@ Potencia tu aprendizaje con FlashCard, la herramienta definitiva para crear, ges
 
 ## 🛠 Tecnologías Utilizadas
 
-- Python 3.x
+- Python 3.10
 - Expresiones regulares para un parsing robusto
 - Programación orientada a objetos para una estructura de código limpia y mantenible
 
 ## 🎯 Perfecto para
 
 - Estudiantes que buscan optimizar su tiempo de estudio
-- Profesionales que necesitan memorizar términos y conceptos clave
+- Profesionales que necesitan memorizar términos y conceptos clave (Tesis, presentaciones, certificaciones, etc.)
 - Entusiastas del aprendizaje que desean una herramienta flexible y potente
 
 ## 🔧 Ejecutable (no necesita instalación)
 
 1. Dirígite a Releases (lado derecho de la ventana),
-2. Descarga el ejecutable FlashCard v.1.8.exe
+2. Descarga el ejecutable FlashCards v.1.8.exe
 3. Ejecuta y te pedirá ubicar el archivo de texto, por ejemplo "flashcards.txt", y cuyos formatos de contenido pueden ser:
 
 ### Flashcard 1
