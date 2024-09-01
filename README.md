@@ -1,38 +1,85 @@
-## **Flashcards v1.0.0**
+# FlashCard v. 1.8 📚✨
+![image](https://github.com/user-attachments/assets/45ccee57-c8d8-4ad0-b451-71068375551d)
+![image](https://github.com/user-attachments/assets/14e0159b-ed33-4677-a668-bafabd159109)
+![image](https://github.com/user-attachments/assets/1061a17d-0265-46d3-9d18-918f9b3cef46)
+![image](https://github.com/user-attachments/assets/89cc7de2-b51a-4788-a536-679b497a1b07)
 
-![image](https://github.com/user-attachments/assets/4143f7d3-5766-421d-b587-a0f543652a8b)
-![image](https://github.com/user-attachments/assets/4d25e325-94f9-4cae-957d-9049b1551a67)
+Potencia tu aprendizaje con FlashCard, la herramienta definitiva para crear, gestionar y estudiar de manera eficiente.
 
-### **Descripción:**
-Esta versión de la aplicación de Flashcards presenta un entorno de aprendizaje interactivo que ayuda a memorizar términos y conceptos.
-Utilizando la técnica probada de las tarjetas de estudio, esta aplicación permite cargar archivos de texto que contienen pares de término-explicación para su revisión.
+## 🚀 Características Principales
 
-### **Características:**
-Carga de archivos personalizados: Los usuarios pueden cargar archivos de texto con sus propios términos y explicaciones para convertirlos en flashcards.
+- **Lectura Inteligente**: Importa flashcards desde archivos de texto con reconocimiento flexible de formato.
+- **Compatibilidad Multilingüe**: Soporta términos y explicaciones en varios idiomas (x5).
+- **Estudio Personalizado**: Practica con tus flashcards en el orden que prefieras (normal o random).
 
-**Navegación de tarjetas:**
-Los usuarios pueden navegar entre las tarjetas utilizando las teclas de flecha izquierda y derecha.
+## 🛠 Tecnologías Utilizadas
 
-**Volteo de tarjetas:**
-Con la tecla de flecha hacia abajo, los usuarios pueden voltear las tarjetas para revelar o ocultar la explicación del término.
+- Python 3.x
+- Expresiones regulares para un parsing robusto
+- Programación orientada a objetos para una estructura de código limpia y mantenible
 
-**Interfaz de usuario amigable:**
-La aplicación presenta una interfaz limpia y fácil de usar, con soporte para fuentes personalizadas para una mejor legibilidad.
+## 🎯 Perfecto para
 
-**_Instrucciones de Instalación:_**
-*Descarga el archivo .zip de esta versión en la sección de Releases.
-*Extrae el archivo en la ubicación deseada.
-*Ejecuta el archivo .exe
-*Carga el archivo de texto, ejemplo flascards.txt
-*Los flashcards deben tener este formato (la IA puede hacer ese trabajo):
+- Estudiantes que buscan optimizar su tiempo de estudio
+- Profesionales que necesitan memorizar términos y conceptos clave
+- Entusiastas del aprendizaje que desean una herramienta flexible y potente
 
-Flashcard 1
-Término: Impacto del Precio
-Explicación: Fenómeno en el cual una orden de compra o venta de gran tamaño afecta el precio de mercado de una acción, resultando en un precio promedio de ejecución más alto o más bajo que el mejor precio disponible en el momento de la orden.
+## 🔧 Ejecutable (no necesita instalación)
 
-Flashcard 2
-Término: Precio Promedio Ponderado por Volumen (VWAP)
-Explicación: Estrategia de negociación en la que el precio de ejecución de una orden se busca que sea el precio promedio de la acción a lo largo del día, ponderado por el volumen de operaciones en cada nivel de precio.
+1. Dirígite a Releases (lado derecho de la ventana),
+2. Descarga el ejecutable FlashCard v.1.8.exe
+3. Ejecuta y te pedirá ubicar el archivo de texto, por ejemplo "flashcards.txt", y cuyos formatos de contenido pueden ser:
 
-**Notas del Autor:**
-Esta es la primera versión de la aplicación. Si encuentras algún problema o tienes sugerencias, por favor, no dudes en contactarme.
+### Flashcard 1
+**Término:** Tu término aquí  
+**Explicación:** Tu explicación aquí
+
+---
+
+### Flashcard 2
+**Term:** Your term here  
+**Explanation:** Your explanation here
+
+---
+
+### Flashcard 3
+**Concepto:** Tu concepto aquí  
+**Definición:** Tu definición aquí
+
+---
+
+### Flashcard 4
+**Begriff:** Dein Begriff hier  
+**Erklärung:** Deine Erklärung hier
+
+---
+
+### Flashcard 5
+**Terme:** Votre terme ici  
+**Explication:** Votre explication ici
+
+---
+
+### Flashcard 6
+**概念:** 你的概念在这里  
+**解释:** 你的解释在这里
+
+Si le das cualquiera de estos seis formatos a ChatGPT Flashcards Maker, rápidamente los creará en base a la información; solo copias los resultados y pegas dentro del archivo de texto "flashcards.txt", u cualquiera con otro nombre. Se adjunta archivo de muestra.
+https://chatgpt.com/g/g-1WDrqk230-flashcards-maker
+![image](https://github.com/user-attachments/assets/ef8fc400-bfaf-483c-86b0-16d3275b7656)
+
+4. Utiliza las flechas direccionales derecha e izquierda. Flecha hacia arriba cambia de modo normal a random o viceversa, flecha hacia abajo te muestra la definición.
+5. Permite sobreponer la aplicación por encima de las demás: click derecho y le das a Top.
+6. Permite resetear: click derecho, Reset, y volverás al principio.
+
+## 🤝 Contribuciones
+
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar FlashCard, no dudes en abrir un issue o enviar un pull request.
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+---
+
+Desarrollado con ❤️ por Luis Humberto Calderon B., UNI, Setiembre de 2024.
