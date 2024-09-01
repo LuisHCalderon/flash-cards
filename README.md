@@ -27,7 +27,7 @@ Potencia tu aprendizaje con FlashCards, la herramienta definitiva para crear, ge
 ## 🔧 Ejecutable (no necesita instalación)
 
 1. Dirígite a Releases (lado derecho de la ventana),
-2. Descarga el ejecutable FlashCards v.1.8.exe
+2. Descarga el ejecutable FlashCards v.1.9.exe
 3. Ejecuta y te pedirá ubicar el archivo de texto, por ejemplo "flashcards.txt", y cuyos formatos de contenido pueden ser:
 
 ### Flashcard 1
