@@ -1,8 +1,8 @@
 # FlashCards v. 1.8 📚✨
-![image](https://github.com/user-attachments/assets/45ccee57-c8d8-4ad0-b451-71068375551d)
-![image](https://github.com/user-attachments/assets/14e0159b-ed33-4677-a668-bafabd159109)
-![image](https://github.com/user-attachments/assets/1061a17d-0265-46d3-9d18-918f9b3cef46)
-![image](https://github.com/user-attachments/assets/89cc7de2-b51a-4788-a536-679b497a1b07)
+![image](https://github.com/user-attachments/assets/47042173-f52c-45ec-8aab-64b6b0f000f1)
+![image](https://github.com/user-attachments/assets/99fd3403-dd43-4cb9-8c1f-e3b90a46c1c2)
+![image](https://github.com/user-attachments/assets/0156cb50-855d-432f-8e08-3ad5f276ece8)
+![image](https://github.com/user-attachments/assets/494d5b33-9b05-4e10-b0f3-75324cd0ab71)
 
 Potencia tu aprendizaje con FlashCards, la herramienta definitiva para crear, gestionar y estudiar de manera eficiente.
 
