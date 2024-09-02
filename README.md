@@ -1,4 +1,8 @@
 # FlashCards (Windows) 📚✨
+![image](https://github.com/user-attachments/assets/b55d7f19-57aa-4bb1-bf75-c4fe144d18d0)
+![image](https://github.com/user-attachments/assets/e233ea9e-d973-4cd5-9fa7-a2bd661cd366)
+![image](https://github.com/user-attachments/assets/99a7aef8-f54a-489b-ab01-da7204df72e2)
+![image](https://github.com/user-attachments/assets/a5d87621-4ec6-4332-933c-ba5966eeac17)
 
 Potencia tu aprendizaje con FlashCards, la herramienta definitiva para crear, gestionar y estudiar de manera eficiente (+30%).
 
@@ -61,7 +65,7 @@ Potencia tu aprendizaje con FlashCards, la herramienta definitiva para crear, ge
 **概念:** 你的概念在这里  
 **解释:** 你的解释在这里
 
-Si le das cualquiera de estos seis formatos a ChatGPT Flashcards Maker, rápidamente los creará en base a la información solicitada u cargada desde un *pdf, por ejemplo. Solo copias los resultados y pegas dentro del archivo de texto "flashcards.txt", u cualquiera con otro nombre. Se adjunta otros archivos de muestra.
+Si le das cualquiera de estos seis formatos a ChatGPT Flashcards Maker, rápidamente los creará en base a la información solicitada u cargada desde un *pdf, por ejemplo. Solo copias los resultados y pegas dentro del archivo de texto "flashcards.txt", u cualquiera con otro nombre. No necesitas escribirlos a mano. Se adjunta otros archivos de muestra.
 https://chatgpt.com/g/g-1WDrqk230-flashcards-maker
 ![image](https://github.com/user-attachments/assets/ef8fc400-bfaf-483c-86b0-16d3275b7656)
 
