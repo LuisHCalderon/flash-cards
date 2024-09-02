@@ -1,0 +1,806 @@
+Flashcard 1
+Term: Basel Committee on Banking Supervision
+Definition: A global standard-setting body that formulates broad supervisory standards and guidelines for the banking sector, which are followed by central banks and regulators.
+
+Flashcard 2
+Term: Risk-based Capital (RBC)
+Definition: A framework that requires banks to maintain a minimum amount of capital based on the riskiness of their assets to absorb potential losses.
+
+Flashcard 3
+Term: Common Equity Tier 1 (CET1)
+Definition: The highest quality of regulatory capital that consists of common shares and retained earnings, which must be at least 4.5% of risk-weighted assets (RWA).
+
+Flashcard 4
+Term: Tier 1 Capital
+Definition: Capital that includes Common Equity Tier 1 and additional Tier 1 instruments, which must be at least 6% of risk-weighted assets (RWA).
+
+Flashcard 5
+Term: Total Capital
+Definition: The sum of Tier 1 and Tier 2 capital, which must be at least 8% of risk-weighted assets (RWA).
+
+Flashcard 6
+Term: Capital Conservation Buffer
+Definition: A buffer of 2.5% of Common Equity Tier 1 that banks must maintain above the regulatory minimum to avoid restrictions on distributions such as dividends and bonuses.
+
+Flashcard 7
+Term: Countercyclical Capital Buffer
+Definition: An additional buffer that can be imposed during periods of high credit growth to protect the banking sector from system-wide stress.
+
+Flashcard 8
+Term: Output Floor
+Definition: A mechanism to ensure that banks' capital requirements do not fall below a certain percentage (72.5%) of the requirements calculated using standardized approaches, to reduce excessive variability in risk-weighted assets.
+
+Flashcard 9
+Term: Risk-weighted Assets (RWA)
+Definition: Assets that are weighted according to their risk, used to determine the minimum capital that banks must hold to cover potential losses.
+
+Flashcard 10
+Term: Securitization
+Definition: The process of pooling various types of contractual debt and selling their related cash flows to third-party investors as securities.
+
+Flashcard 11
+Term: Trading Book
+Definition: A portfolio of financial instruments held by a bank that are intended for short-term resale, to benefit from actual or expected short-term price movements, or to lock in arbitrage profits.
+
+Flashcard 12
+Term: Banking Book
+Definition: Comprises all financial instruments and assets that are not included in the trading book, typically held to maturity or for long-term investment purposes.
+
+Flashcard 13
+Term: Internal Ratings-Based (IRB) Approach
+Definition: A method for calculating credit risk where banks use their internal risk estimates for key parameters such as probability of default, subject to regulatory approval.
+
+Flashcard 14
+Term: Operational Risk
+Definition: The risk of loss resulting from inadequate or failed internal processes, people, systems, or external events.
+
+Flashcard 15
+Term: Credit Valuation Adjustment (CVA)
+Definition: An adjustment to the valuation of derivatives to account for counterparty credit risk, reflecting the risk of counterparty default.
+
+Flashcard 16
+Term: Capital Adequacy
+Definition: The requirement for a bank to hold sufficient capital to cover its risk exposures, ensuring financial stability and protection against insolvency.
+
+Flashcard 17
+Term: Regulatory Capital
+Definition: The minimum amount of capital that a bank must hold as required by its financial regulator, consisting of Tier 1 and Tier 2 capital.
+
+Flashcard 18
+Term: Market Risk
+Definition: The risk of losses in on- and off-balance sheet positions arising from movements in market prices, including interest rates, equity prices, foreign exchange rates, and commodity prices.
+
+Flashcard 19
+Term: Liquidity Coverage Ratio (LCR)
+Definition: A requirement for banks to hold a sufficient amount of high-quality liquid assets (HQLA) to cover their total net cash outflows over a 30-day stress period.
+
+Flashcard 20
+Term: Net Stable Funding Ratio (NSFR)
+Definition: A liquidity standard requiring banks to maintain a stable funding profile relative to the composition of their assets and off-balance sheet activities over a one-year time horizon.
+
+Flashcard 21
+Term: Securitization External Ratings-Based Approach (SEC-ERBA)
+Definition: An approach for calculating risk-weighted assets based on external credit ratings assigned to securitization exposures.
+
+Flashcard 22
+Term: Internal Assessment Approach (IAA)
+Definition: An approach used by banks to assess the credit risk of securitization exposures, using their internal models and methodologies.
+
+Flashcard 23
+Term: Comprehensive Approach
+Definition: A method for calculating credit risk exposure, particularly for derivatives and securities financing transactions, by considering various factors such as collateral.
+
+Flashcard 24
+Term: Value at Risk (VaR)
+Definition: A statistical technique used to measure the risk of loss on a portfolio of assets, indicating the maximum loss that is likely to occur over a specific time frame with a given confidence level.
+
+Flashcard 25
+Term: Standardised Approach (SA)
+Definition: A method for calculating credit, market, and operational risk that uses standardized risk weights prescribed by regulatory authorities, rather than internal models.
+
+Flashcard 26
+Term: Internal Models Approach (IMA)
+Definition: A method for calculating market risk capital requirements based on the use of a bank's own internal models, subject to regulatory approval.
+
+Flashcard 27
+Term: Counterparty Credit Risk (CCR)
+Definition: The risk that the counterparty to a financial contract will default before the final settlement of the transaction's cash flows.
+
+Flashcard 28
+Term: Leverage Ratio
+Definition: A non-risk-based ratio that measures a bank's core capital relative to its total assets, designed to constrain the build-up of leverage in the banking sector.
+
+Flashcard 29
+Term: Large Exposures Framework
+Definition: A set of regulations that limit the maximum exposure a bank can have to a single counterparty or a group of connected counterparties, to reduce concentration risk.
+
+Flashcard 30
+Term: Pillar 1 Capital Requirements
+Definition: The minimum capital requirements under Basel III that cover credit risk, market risk, and operational risk.
+
+Flashcard 31
+Term: Pillar 2 Supervisory Review
+Definition: A process under Basel III where regulators review banks' internal risk assessments and capital adequacy to ensure they are holding sufficient capital for their risk profiles.
+
+Flashcard 32
+Term: Pillar 3 Market Discipline
+Definition: A Basel III framework that promotes market discipline through regulatory disclosure requirements, allowing market participants to assess the risk and capital adequacy of banks.
+
+Flashcard 33
+Term: Securitization Standardised Approach (SEC-SA)
+Definition: A method for calculating the capital charge for securitization exposures using standardized risk weights, based on the nature and creditworthiness of the securitization.
+
+Flashcard 34
+Term: Credit Spread Risk (CSR)
+Definition: The risk of loss due to changes in the spread between the yield of a bond and the yield of a risk-free bond, often caused by changes in credit quality.
+
+Flashcard 35
+Term: Banking Book Instruments
+Definition: Financial instruments that are not held for trading purposes and are typically intended to be held to maturity, such as loans and mortgages.
+
+Flashcard 36
+Term: Trading Book Instruments
+Definition: Financial instruments held by a bank for the purpose of short-term resale, to profit from actual or expected short-term price movements.
+
+Flashcard 37
+Term: Asset Securitization
+Definition: The process of converting a pool of illiquid assets into a security that can be sold to investors, providing liquidity to the originator of the assets.
+
+Flashcard 38
+Term: External Credit Ratings
+Definition: Ratings provided by credit rating agencies that assess the creditworthiness of an entity or financial instrument, used by banks to determine capital requirements for securitization exposures.
+
+Flashcard 39
+Term: Capital Conservation Ratio
+Definition: The percentage of earnings that a bank must conserve when its Common Equity Tier 1 capital ratio falls within a specific range, limiting distributions like dividends and bonuses.
+
+Flashcard 40
+Term: High-Quality Liquid Assets (HQLA)
+Definition: Assets that can be easily and quickly converted into cash with little or no loss of value, used to meet the liquidity coverage ratio (LCR) requirement.
+
+Flashcard 41
+Term: Eligible Financial Collateral
+Definition: Collateral that meets specific regulatory criteria and can be used to reduce the credit risk capital charge for a bank's exposures.
+
+Flashcard 42
+Term: Credit Default Swap (CDS)
+Definition: A financial derivative that allows an investor to "swap" or offset the credit risk of a debt instrument with that of another investor.
+
+Flashcard 43
+Term: Stress Testing
+Definition: A risk management tool used by banks to evaluate the potential impact of adverse economic conditions on their financial stability and capital adequacy.
+
+Flashcard 44
+Term: Internal Risk Transfer
+Definition: The process of transferring risk internally within a bank, for example, from the banking book to the trading book, often used for managing interest rate and credit risk.
+
+Flashcard 45
+Term: Credit Risk Mitigation
+Definition: Techniques used by banks to reduce the credit risk associated with their exposures, including collateral, guarantees, and credit derivatives.
+
+Flashcard 46
+Term: Collateralised Debt Obligation (CDO)
+Definition: A type of structured financial product that pools together cash flow-generating assets and repackages them into tranches that can be sold to investors.
+
+Flashcard 47
+Term: Repo-style Transaction
+Definition: A type of transaction where one party sells securities to another with an agreement to repurchase them at a later date, often used for short-term funding.
+
+Flashcard 48
+Term: Supervisory Review Process
+Definition: A regulatory process where banks' risk management practices and capital adequacy are reviewed by supervisory authorities to ensure compliance with regulatory standards.
+
+Flashcard 49
+Term: Leverage Ratio Buffer
+Definition: An additional capital buffer required for globally systemically important banks (G-SIBs) to prevent excessive leverage.
+
+Flashcard 50
+Term: Non-performing Loan (NPL) Securitization
+Definition: The process of pooling non-performing loans (loans that are in default or close to being in default) and selling them as securitized assets to investors.
+
+Flashcard 51
+Term: Eligible Third-Party Protection Provider
+Definition: An external entity that provides credit risk protection to a bank, meeting specific regulatory requirements for recognition in capital calculations.
+
+Flashcard 52
+Term: Interest Rate Risk in the Banking Book (IRRBB)
+Definition: The risk that changes in interest rates will affect a bank's earnings or economic value, primarily associated with its non-trading activities.
+
+Flashcard 53
+Term: General Interest Rate Risk (GIRR)
+Definition: The risk of loss due to changes in market interest rates, affecting the value of interest-rate-sensitive financial instruments in both the trading and banking books.
+
+Flashcard 54
+Term: Embedded Derivative
+Definition: A component of a financial instrument that causes some or all of the cash flows of the instrument to vary in a similar way to a standalone derivative.
+
+Flashcard 55
+Term: Operational Risk Capital Charge
+Definition: The amount of capital that a bank is required to hold to cover potential losses arising from operational risks, calculated using standardized or advanced methods.
+
+Flashcard 56
+Term: Banking Book Short Credit Position
+Definition: A position where a bank benefits from a decrease in the value of a credit exposure in its banking book, which must be capitalized under market risk rules if not hedged.
+
+Flashcard 57
+Term: Counterparty Credit Risk Exposure Measurement
+Definition: The process of determining the potential exposure to counterparty credit risk, considering factors such as the likelihood of default and the exposure at default.
+
+Flashcard 58
+Term: Supervisory Approval
+Definition: The process through which a bank must obtain permission from regulatory authorities before using certain risk management practices or internal models.
+
+Flashcard 59
+Term: Internal Capital Adequacy Assessment Process (ICAAP)
+Definition: A process through which a bank assesses its capital adequacy in relation to its risk profile and business strategy, as part of Pillar 2 of Basel III.
+
+Flashcard 60
+Term: Trading Book Capital Requirement
+Definition: The minimum amount of capital a bank must hold against its trading book exposures to cover potential market risk losses.
+
+Flashcard 61
+Term: Standardised Approach for Operational Risk
+Definition: A method for calculating operational risk capital requirements using a standardized formula based on a bank's income and business activities.
+
+Flashcard 62
+Term: Discretionary Bonus Payments
+Definition: Payments made to bank staff at the discretion of the bank, which are subject to restrictions under the capital conservation buffer rules if the bank's capital levels are low.
+
+Flashcard 63
+Term: Market Risk Capital Requirements
+Definition: The amount of capital a bank must hold to cover potential losses from market risk exposures, including interest rate, equity, and foreign exchange risks.
+
+Flashcard 64
+Term: Trading Desk
+Definition: A group within a bank's trading division responsible for managing specific types of market risk exposures, such as foreign exchange or commodities.
+
+Flashcard 65
+Term: Profit and Loss Attribution Test
+Definition: A test used to assess the accuracy of a bank's internal models for market risk by comparing predicted profits and losses with actual outcomes.
+
+Flashcard 66
+Term: Backtesting
+Definition: A process where a bank tests the predictive power of its risk models by comparing predicted risk estimates against actual outcomes over time.
+
+Flashcard 67
+Term: Pillar 1 Surcharge
+Definition: An additional capital requirement imposed on a bank when certain conditions are met, such as capital benefit from switching positions between the trading and banking books.
+
+Flashcard 68
+Term: Eligible Hedging Instruments
+Definition: Financial instruments that meet regulatory requirements for hedging specific risks and can be used to reduce capital charges.
+
+Flashcard 69
+Term: Credit Valuation Adjustment (CVA) Portfolio
+Definition: A portfolio of derivatives and other instruments that are subject to credit valuation adjustments to account for counterparty credit risk.
+
+Flashcard 70
+Term: Stressed Parameter Calibrations
+Definition: The adjustment of risk model parameters to reflect conditions of financial stress, used in the calculation of risk-weighted assets under internal models.
+
+Flashcard 71
+Term: Market-making Activities
+Definition: Activities conducted by banks to provide liquidity to markets by buying and selling financial instruments, often resulting in short-term positions.
+
+Flashcard 72
+Term: Risk-weighted Asset Calculation
+Definition: The process of determining the risk-weighted value of a bank's assets to calculate the required capital based on the risk profile of those assets.
+
+Flashcard 73
+Term: Simplified Standardised Approach
+Definition: A more straightforward method for calculating capital requirements for market risk, used by banks with less complex trading activities.
+
+Flashcard 74
+Term: Supervisory Review and Evaluation Process (SREP)
+Definition: The process where regulatory authorities assess a bank's risk management, capital adequacy, and overall stability as part of the Pillar 2 framework.
+
+Flashcard 75
+Term: Supervisory Powers
+Definition: The authority granted to regulators to enforce compliance with banking regulations, including the power to require banks to take corrective actions.
+
+Flashcard 76
+Term: Systemically Important Bank Buffers
+Definition: Additional capital buffers required for banks that are considered systemically important to the global or national financial system, to absorb higher potential losses.
+
+Flashcard 77
+Term: Transitional Arrangements
+Definition: Temporary provisions that allow banks to gradually adjust to new regulatory requirements, reducing the impact on their operations and capital.
+
+Flashcard 78
+Term: Capital Distribution Constraints
+Definition: Restrictions on the distribution of earnings, such as dividends and bonuses, that apply when a bank's capital levels fall within certain regulatory thresholds.
+
+Flashcard 79
+Term: Regulatory Minimum Capital Requirement
+Definition: The minimum amount of capital a bank is required to hold by regulators, based on the riskiness of its assets and operations.
+
+Flashcard 80
+Term: Eligible Risk Transfer
+Definition: A transfer of risk that meets regulatory requirements, allowing it to be recognized in the bank's capital adequacy calculations.
+
+Flashcard 81
+Term: Trading Book Boundary
+Definition: The regulatory rules that determine which financial instruments should be classified as part of the trading book versus the banking book.
+
+Flashcard 82
+Term: External Hedge
+Definition: A hedging transaction executed with an external counterparty, used to mitigate risk in a bank's trading or banking book.
+
+Flashcard 83
+Term: Real Estate Holdings
+Definition: Properties held by a bank, typically classified in the banking book and not subject to the same market risk capital requirements as trading assets.
+
+Flashcard 84
+Term: Retail Credit
+Definition: Credit extended to individuals or small businesses, usually held in the banking book and subject to specific regulatory capital requirements.
+
+Flashcard 85
+Term: Supervisory Approval for Internal Models
+Definition: The process by which a bank must obtain permission from regulators to use internal models for calculating capital requirements, ensuring the models meet regulatory standards.
+
+Flashcard 86
+Term: Hedging Instrument
+Definition: A financial instrument used to reduce or offset the risk of adverse price movements in an asset, often used in managing market risk.
+
+Flashcard 87
+Term: Capital Planning
+Definition: The process of determining a bank's future capital needs based on its risk profile, growth plans, and regulatory requirements.
+
+Flashcard 88
+Term: Eligible Financial Instrument
+Definition: A financial instrument that meets specific regulatory criteria and can be used in risk management strategies such as hedging or collateral.
+
+Flashcard 89
+Term: Market Valuation
+Definition: The process of determining the current market value of a financial instrument, often used in the trading book for calculating capital requirements.
+
+Flashcard 90
+Term: Internal Hedge
+Definition: A risk management strategy where a bank offsets risk internally between different parts of its operations, rather than using external hedges.
+
+Flashcard 91
+Term: Banking Book Capital Requirement
+Definition: The minimum amount of capital a bank must hold to cover risks associated with its banking book, including credit and operational risks.
+
+Flashcard 92
+Term: Systemic Risk
+Definition: The risk that the failure of one financial institution could cause the collapse of the entire financial system, often addressed through additional capital buffers.
+
+Flashcard 93
+Term: Supervisory Review of Capital Adequacy
+Definition: The process where regulators assess whether a bank's capital levels are sufficient to cover its risk exposures, as part of Pillar 2 of Basel III.
+
+Flashcard 94
+Term: Basel III
+Definition: A comprehensive set of reform measures developed by the Basel Committee on Banking Supervision to strengthen regulation, supervision, and risk management in the banking sector.
+
+Flashcard 95
+Term: Capital Surcharge
+Definition: An additional capital requirement imposed on systemically important banks to mitigate the risks they pose to the financial system.
+
+Flashcard 96
+Term: Liquidity Risk
+Definition: The risk that a bank will not be able to meet its financial obligations as they come due, because of an inability to liquidate assets or obtain adequate funding.
+
+Flashcard 97
+Term: Eligible External Counterparty
+Definition: An external entity that meets specific criteria, allowing it to participate in risk mitigation transactions with a bank, such as providing credit protection.
+
+Flashcard 98
+Term: Settlement Risk
+Definition: The risk that one party will fail to deliver the terms of a contract with another party at the time of settlement, creating a potential loss.
+
+Flashcard 99
+Term: Arbitrage
+Definition: The simultaneous purchase and sale of an asset to profit from a difference in the price, often leading to short-term trading positions.
+
+Flashcard 100
+Term: Scrip Dividends
+Definition: Dividends paid in the form of additional shares rather than cash, often used to conserve cash while still rewarding shareholders.
+
+Flashcard 101
+Term: Reclassification of Financial Instruments
+Definition: The process of changing the classification of a financial instrument between the banking book and the trading book, subject to strict regulatory guidelines to prevent arbitrage.
+
+Flashcard 102
+Term: Documentation of Instrument Designation
+Definition: The requirement for banks to have clearly defined policies and procedures for designating financial instruments to the trading book or banking book, ensuring regulatory compliance.
+
+Flashcard 103
+Term: Independent Third Party
+Definition: An external entity that provides unbiased verification or information, often required in the context of risk assessments or valuations for regulatory purposes.
+
+Flashcard 104
+Term: Unlisted Equities
+Definition: Shares of a company that are not listed on a public exchange, typically classified in the banking book and subject to different capital requirements than listed equities.
+
+Flashcard 105
+Term: Supervisory Discretion
+Definition: The authority of regulators to make judgment-based decisions regarding a bank's operations, including the ability to impose additional capital requirements or restrictions.
+
+Flashcard 106
+Term: Counterparty Default Risk
+Definition: The risk that the counterparty to a financial transaction will fail to fulfill their obligations, leading to a financial loss for the bank.
+
+Flashcard 107
+Term: Credit Risk Capital Charge
+Definition: The amount of capital a bank is required to hold to cover potential losses from credit risk exposures, calculated using standardized or advanced methods.
+
+Flashcard 108
+Term: Trading-related Repo-style Transaction
+Definition: A repurchase agreement entered into for trading purposes, such as market-making or arbitrage, subject to trading book capital requirements.
+
+Flashcard 109
+Term: Capital Requirements for Derivatives
+Definition: The regulatory capital that a bank must hold against derivative exposures, accounting for counterparty credit risk and market risk.
+
+Flashcard 110
+Term: Look-through Approach
+Definition: A method of risk assessment where a bank looks through to the underlying assets of a fund or securitization to determine the appropriate risk weight.
+
+Flashcard 111
+Term: Mandate-based Approach
+Definition: A method for calculating risk weights based on the investment mandate of a fund, used when detailed information about the underlying assets is not available.
+
+Flashcard 112
+Term: Fall-back Approach
+Definition: A conservative method used to calculate risk weights for securitization or fund exposures when neither the look-through nor mandate-based approaches can be applied.
+
+Flashcard 113
+Term: Securitisation Internal Ratings-Based Approach (SEC-IRBA)
+Definition: A method for calculating capital charges for securitization exposures based on a bank's internal ratings, subject to supervisory approval.
+
+Flashcard 114
+Term: Market Risk for Foreign Exchange
+Definition: The risk of loss due to fluctuations in currency exchange rates, applicable to both the banking book and trading book.
+
+Flashcard 115
+Term: Market Risk for Commodities
+Definition: The risk of loss arising from changes in the prices of commodities, such as oil, gold, or agricultural products, relevant to both banking book and trading book exposures.
+
+Flashcard 116
+Term: Eligible Collateral
+Definition: Assets that meet regulatory criteria and can be used to reduce the exposure amount in credit risk calculations, thus lowering the capital requirement.
+
+Flashcard 117
+Term: Credit Risk for Equity Investments in Funds
+Definition: The capital requirement associated with a bank's equity investments in funds, which can be calculated using different approaches depending on the availability of detailed asset information.
+
+Flashcard 118
+Term: Derivatives on Direct Real Estate Holdings
+Definition: Financial instruments whose value is derived from the price of direct real estate holdings, typically classified in the banking book unless they meet specific criteria for the trading book.
+
+Flashcard 119
+Term: Fair Value Option
+Definition: An accounting option that allows banks to designate certain financial instruments at fair value, with changes in value recognized in profit and loss, subject to regulatory conditions for trading book classification.
+
+Flashcard 120
+Term: Net Short Position
+Definition: A position where a bank's exposure increases in value as the price of an asset decreases, subject to trading book capital requirements if it arises from instruments in the banking book.
+
+Flashcard 121
+Term: Eligible Third-Party Protection Provider for CVA
+Definition: A counterparty that meets specific regulatory criteria, allowing its protection to be recognized in the capital calculation for Credit Valuation Adjustment (CVA) risk.
+
+Flashcard 122
+Term: Risk Mitigation Techniques
+Definition: Strategies used by banks to reduce their exposure to various types of risk, such as credit, market, and operational risks, through the use of collateral, guarantees, and hedging.
+
+Flashcard 123
+Term: Countercyclical Buffer Jurisdictional Application
+Definition: The implementation of the countercyclical capital buffer in specific jurisdictions based on the assessment of credit growth and systemic risk by national regulators.
+
+Flashcard 124
+Term: Banking Book Exposures
+Definition: Assets and liabilities that are not held for trading purposes, typically held to maturity or for long-term investment, and subject to credit risk capital requirements.
+
+Flashcard 125
+Term: External Hedge for Banking Book Exposure
+Definition: A hedging transaction with an external counterparty that matches the internal risk transfer from the banking book, allowing the exposure to be treated as hedged for capital purposes.
+
+Flashcard 126
+Term: Internal Risk Transfer Desk
+Definition: A dedicated trading desk within a bank responsible for managing internal risk transfers, particularly between the banking book and trading book, subject to specific regulatory approvals.
+
+Flashcard 127
+Term: Market Risk Add-on for CVA
+Definition: Additional capital requirements imposed on banks to cover market risk associated with credit valuation adjustments, including curvature, default risk, and residual risks.
+
+Flashcard 128
+Term: Capital Conservation Buffer in Stress Periods
+Definition: A regulatory buffer designed to be drawn down by banks during periods of financial stress, allowing them to absorb losses without breaching minimum capital requirements.
+
+Flashcard 129
+Term: Distribution Restrictions for Banks
+Definition: Regulatory limits on the distribution of earnings, such as dividends and bonuses, imposed when a bank's capital levels fall within certain regulatory buffers.
+
+Flashcard 130
+Term: Internal Capital Target Setting
+Definition: The process by which a bank determines its own capital targets, above regulatory minimums, based on its risk appetite, business strategy, and market conditions.
+
+Flashcard 131
+Term: Trading Book Instrument Fair Valuation
+Definition: The requirement that all instruments in the trading book be marked to market daily, with any changes in value recognized in the profit and loss account.
+
+Flashcard 132
+Term: Trading Book Capital Arbitrage
+Definition: The practice of switching instruments between the banking book and trading book to exploit differences in capital requirements, which is strictly prohibited under regulatory standards.
+
+Flashcard 133
+Term: Large Exposures Limit
+Definition: The maximum exposure a bank can have to a single counterparty or group of connected counterparties, designed to prevent excessive concentration of risk.
+
+Flashcard 134
+Term: External Hedge for Credit Risk
+Definition: A transaction with an external party that hedges the credit risk of a banking or trading book position, recognized for regulatory capital purposes if it meets specific criteria.
+
+Flashcard 135
+Term: Market Risk for Embedded Derivatives
+Definition: The risk arising from derivative components embedded within financial instruments, which must be bifurcated and managed as part of the trading book.
+
+Flashcard 136
+Term: Supervisory Review of Trading Book Positions
+Definition: The process where regulators assess the appropriateness of the instruments classified in a bank's trading book, ensuring they meet the criteria for trading book designation.
+
+Flashcard 137
+Term: Regulatory Approval for Switching Instruments
+Definition: The requirement that banks obtain supervisory approval before switching instruments between the trading book and banking book, to prevent regulatory arbitrage.
+
+Flashcard 138
+Term: Output Floor Calculation Example
+Definition: An illustrative calculation that demonstrates how a bank's risk-weighted assets are subject to a floor based on standardized approaches, ensuring minimum capital requirements are met.
+
+Flashcard 139
+Term: Pillar 1 Capital Calculation
+Definition: The calculation of minimum capital requirements under Basel III, covering credit, market, and operational risks, using standardized or internal model approaches.
+
+Flashcard 140
+Term: Pillar 2 Capital Adjustment
+Definition: Additional capital requirements imposed by regulators under Pillar 2, based on their assessment of a bank's specific risk profile and the adequacy of its internal risk management.
+
+Flashcard 141
+Term: Internal Risk Transfer for Interest Rate Risk
+Definition: The transfer of interest rate risk from the banking book to the trading book within a bank, subject to specific documentation and capital requirements under the market risk framework.
+
+Flashcard 142
+Term: Capital Conservation Standards
+Definition: Regulatory standards that define the minimum levels of capital that banks must maintain, including buffers, to avoid restrictions on distributions and to ensure stability during periods of stress.
+
+Flashcard 143
+Term: Credit Risk Mitigation for Securitization Exposures
+Definition: The use of collateral, guarantees, or other techniques to reduce the credit risk associated with securitization exposures, thereby lowering the capital charge.
+
+Flashcard 144
+Term: Supervisory Reporting Requirements
+Definition: The obligation for banks to report detailed information on their risk exposures, capital adequacy, and internal controls to regulatory authorities on a regular basis.
+
+Flashcard 145
+Term: Supervisory Approval for Internal Models
+Definition: The process where banks must obtain regulatory approval to use internal models for calculating capital requirements, ensuring the models are robust and compliant with Basel III standards.
+
+Flashcard 146
+Term: Supervisory Powers for Reclassification
+Definition: The authority of regulators to require banks to reclassify financial instruments between the trading book and banking book if the original classification is deemed inappropriate.
+
+Flashcard 147
+Term: Trading Book Liquidity Management
+Definition: The management of liquidity in the trading book, ensuring that the bank can meet its short-term obligations and minimize the risk of forced sales of assets.
+
+Flashcard 148
+Term: Counterparty Credit Risk for Trading Book
+Definition: The risk that a counterparty to a trading book transaction will default before the final settlement, requiring capital to be held against this exposure.
+
+Flashcard 149
+Term: Risk-sensitive Capital Requirements
+Definition: Capital requirements that are adjusted based on the risk profile of a bank's assets, ensuring that higher-risk exposures require more capital.
+
+Flashcard 150
+Term: Capital Conservation Buffer Application
+Definition: The implementation of the capital conservation buffer, which restricts distributions when a bank's capital levels fall within certain ranges, promoting capital retention.
+
+Flashcard 151
+Term: Reassignment of Securities
+Definition: The process of moving securities between the trading book and banking book, subject to regulatory restrictions and the prohibition of capital benefit from such moves.
+
+Flashcard 152
+Term: Supervisory Documentation Review
+Definition: The review of a bank's internal documentation by regulators to ensure compliance with regulatory standards for risk management and capital adequacy.
+
+Flashcard 153
+Term: Buffer for Systemically Important Banks
+Definition: Additional capital buffers required for banks that are deemed systemically important, to enhance their ability to absorb losses and reduce systemic risk.
+
+Flashcard 154
+Term: Basel Framework Transitional Provisions
+Definition: Temporary provisions that allow banks to phase in new capital and liquidity requirements under Basel III, providing time to adjust to the new regulatory environment.
+
+Flashcard 155
+Term: Supervisory Reporting on Risk Exposures
+Definition: The requirement for banks to regularly report their risk exposures to regulators, ensuring transparency and enabling effective supervisory oversight.
+
+Flashcard 156
+Term: Trading Book Risk Management Practices
+Definition: The set of practices and procedures that banks use to manage the risks associated with their trading book, including market, credit, and liquidity risks.
+
+Flashcard 157
+Term: Bank's Risk Appetite
+Definition: The level of risk that a bank is willing to accept in pursuit of its business objectives, which guides its capital planning and risk management strategies.
+
+Flashcard 158
+Term: Tier 2 Capital
+Definition: The supplementary capital held by a bank, including subordinated debt and hybrid instruments, which provides additional loss absorption capacity beyond Tier 1 capital.
+
+Flashcard 159
+Term: Supervisory Expectations for Capital Planning
+Definition: The expectations set by regulators for how banks should plan and maintain their capital levels, taking into account their risk profiles and market conditions.
+
+Flashcard 160
+Term: Supervisory Review of Capital Distributions
+Definition: The process where regulators assess and approve a bank's capital distribution plans, ensuring they are consistent with the bank's capital adequacy and risk management frameworks.
+
+Flashcard 161
+Term: Regulatory Minimum Leverage Ratio
+Definition: A non-risk-based capital requirement that ensures banks maintain a minimum level of equity relative to their total assets, providing a backstop against excessive leverage.
+
+Flashcard 162
+Term: Market Risk for Equity-linked Instruments
+Definition: The risk of loss from changes in the value of instruments that are linked to the performance of equities, subject to market risk capital requirements.
+
+Flashcard 163
+Term: Capital Floor
+Definition: A regulatory mechanism that ensures a bank's capital requirements do not fall below a specified minimum level, even when using internal models.
+
+Flashcard 164
+Term: Supervisory Requirements for Internal Controls
+Definition: The regulatory standards that banks must meet in their internal controls, particularly around risk management and capital adequacy, to ensure effective governance.
+
+Flashcard 165
+Term: Operational Calculation for Net Short Positions
+Definition: The calculation process that banks must follow to identify and manage net short positions in their banking book, ensuring compliance with market risk rules.
+
+Flashcard 166
+Term: Supervisory Powers for Instrument Assignment
+Definition: The authority of regulators to determine whether a financial instrument should be classified in the trading book or banking book based on its risk profile and intended use.
+
+Flashcard 167
+Term: Banking Book Securitization Exposures
+Definition: Exposures to securitization assets that are held in the banking book, subject to specific capital requirements based on the risk characteristics of the underlying assets.
+
+Flashcard 168
+Term: Trading Book for Market-making
+Definition: The part of a bank's trading book that is used to facilitate market-making activities, where the bank buys and sells financial instruments to provide liquidity to the market.
+
+Flashcard 169
+Term: Internal Models Method (IMM)
+Definition: A method for calculating counterparty credit risk using a bank's internal models, subject to regulatory approval, to assess potential future exposure.
+
+Flashcard 170
+Term: Banking Book Risk-weighting
+Definition: The process of assigning risk weights to banking book assets, based on their risk characteristics, to determine the required capital under regulatory standards.
+
+Flashcard 171
+Term: Supervisory Review of Counterparty Credit Risk
+Definition: The process where regulators assess a bank's counterparty credit risk management practices and capital adequacy, ensuring compliance with Basel III requirements.
+
+Flashcard 172
+Term: Supervisory Review of Market Risk Exposures
+Definition: The process where regulators assess a bank's market risk exposures and the adequacy of its capital to cover potential losses, as part of the Pillar 2 review.
+
+Flashcard 173
+Term: Risk Management for Securitization Exposures
+Definition: The practices and strategies that banks use to manage the risks associated with securitization exposures, including credit, market, and liquidity risks.
+
+Flashcard 174
+Term: Trading Book Risk Capital
+Definition: The capital that a bank is required to hold to cover potential losses from market risk exposures in its trading book, calculated using standardized or internal models.
+
+Flashcard 175
+Term: Buffer Range for Capital Conservation
+Definition: The range of capital levels where banks are subject to increasing restrictions on distributions to conserve capital, ensuring financial stability during stress periods.
+
+Flashcard 176
+Term: Regulatory Restrictions on Capital Movement
+Definition: The limitations imposed by regulators on the movement of capital between the banking book and trading book, to prevent capital arbitrage and ensure stability.
+
+Flashcard 177
+Term: Supervisory Review of Financial Reporting
+Definition: The assessment by regulators of a bank's financial reporting practices, ensuring accuracy, transparency, and compliance with regulatory standards.
+
+Flashcard 178
+Term: Trading Book Instrument Reclassification
+Definition: The process of reclassifying an instrument from the trading book to the banking book, or vice versa, subject to strict regulatory guidelines to prevent arbitrage.
+
+Flashcard 179
+Term: Supervisory Review of Internal Risk Transfers
+Definition: The process where regulators assess the effectiveness and compliance of a bank's internal risk transfer practices, particularly between the banking book and trading book.
+
+Flashcard 180
+Term: Capital Requirement for General Interest Rate Risk
+Definition: The capital required to cover potential losses from general interest rate risk, particularly in the trading book, calculated using standardized or internal models.
+
+Flashcard 181
+Term: Supervisory Powers for Capital Surcharges
+Definition: The authority of regulators to impose additional capital surcharges on banks, particularly those that are systemically important or have high-risk profiles.
+
+Flashcard 182
+Term: Supervisory Review of Buffer Utilization
+Definition: The process where regulators assess how banks utilize their capital buffers, ensuring they are used appropriately during periods of stress and rebuilt afterward.
+
+Flashcard 183
+Term: Supervisory Approval for Instrument Transfers
+Definition: The requirement for banks to obtain regulatory approval before transferring instruments between the banking book and trading book, to prevent capital arbitrage.
+
+Flashcard 184
+Term: Regulatory Approval for Internal Risk Transfer Desks
+Definition: The requirement for banks to obtain supervisory approval to establish internal risk transfer desks, ensuring they are used appropriately to manage risk.
+
+Flashcard 185
+Term: Regulatory Review of Trading Desk Practices
+Definition: The assessment by regulators of a bank's trading desk practices, ensuring they are consistent with risk management and capital adequacy standards.
+
+Flashcard 186
+Term: Supervisory Powers for Counterparty Credit Risk
+Definition: The authority of regulators to impose additional capital requirements or restrictions on banks with significant counterparty credit risk exposures.
+
+Flashcard 187
+Term: Regulatory Review of Securitization Exposures
+Definition: The process where regulators assess a bank's securitization exposures, ensuring they are properly managed and capitalized according to regulatory standards.
+
+Flashcard 188
+Term: Supervisory Review of Interest Rate Risk Management
+Definition: The process where regulators assess a bank's management of interest rate risk, particularly in the banking book, ensuring compliance with regulatory guidelines.
+
+Flashcard 189
+Term: Regulatory Review of Internal Capital Models
+Definition: The assessment by regulators of a bank's internal capital models, ensuring they are accurate, robust, and compliant with Basel III standards.
+
+Flashcard 190
+Term: Capital Conservation Buffer for Systemic Banks
+Definition: An additional capital buffer required for systemically important banks to absorb higher potential losses and reduce the impact on the financial system.
+
+Flashcard 191
+Term: Supervisory Review of Capital Planning Processes
+Definition: The process where regulators assess a bank's capital planning processes, ensuring they are aligned with the bank's risk profile and regulatory requirements.
+
+Flashcard 192
+Term: Regulatory Approval for Banking Book Instruments
+Definition: The requirement for banks to obtain supervisory approval for the classification and risk-weighting of certain instruments in the banking book.
+
+Flashcard 193
+Term: Supervisory Review of Trading Book Liquidity
+Definition: The process where regulators assess a bank's liquidity management in the trading book, ensuring it can meet short-term obligations without distress.
+
+Flashcard 194
+Term: Risk Management for Trading-related Repo Transactions
+Definition: The strategies and practices that banks use to manage the risks associated with repo transactions conducted for trading purposes, ensuring compliance with regulatory capital requirements.
+
+Flashcard 195
+Term: Regulatory Approval for Securitization Risk Models
+Definition: The requirement for banks to obtain supervisory approval for the use of internal models to calculate capital requirements for securitization exposures.
+
+Flashcard 196
+Term: Supervisory Review of Buffer Management
+Definition: The assessment by regulators of how banks manage their capital buffers, ensuring they are maintained and utilized in line with regulatory expectations.
+
+Flashcard 197
+Term: Regulatory Review of Trading Book Valuations
+Definition: The process where regulators assess the accuracy and consistency of valuations for instruments in the trading book, ensuring compliance with fair value accounting standards.
+
+Flashcard 198
+Term: Capital Requirements for Trading Book Arbitrage
+Definition: The regulatory capital that must be held against trading book positions that are subject to arbitrage strategies, ensuring adequate loss absorption.
+
+Flashcard 199
+Term: Regulatory Review of Internal Capital Adequacy Assessment
+Definition: The process where regulators assess a bank's internal capital adequacy assessment process (ICAAP), ensuring it accurately reflects the bank's risk profile and capital needs.
+
+Flashcard 200
+Term: Supervisory Review of Liquidity Coverage Ratio
+Definition: The assessment by regulators of a bank's compliance with the Liquidity Coverage Ratio (LCR), ensuring it holds sufficient high-quality liquid assets to cover short-term cash outflows.
+
+Flashcard 201
+Term: Regulatory Approval for Trading Book Instruments
+Definition: The requirement for banks to obtain supervisory approval for the classification and risk management of certain instruments in the trading book.
+
+
+
