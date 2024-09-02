@@ -64,7 +64,7 @@ Potencia tu aprendizaje con FlashCards, la herramienta definitiva para crear, ge
 **概念:** 你的概念在这里  
 **解释:** 你的解释在这里
 
-Si le das cualquiera de estos seis formatos a ChatGPT Flashcards Maker, rápidamente los creará en base a la información; solo copias los resultados y pegas dentro del archivo de texto "flashcards.txt", u cualquiera con otro nombre. Se adjunta archivo de muestra.
+Si le das cualquiera de estos seis formatos a ChatGPT Flashcards Maker, rápidamente los creará en base a la información; solo copias los resultados y pegas dentro del archivo de texto "flashcards.txt", u cualquiera con otro nombre. Se adjunta otros archivos de muestra.
 https://chatgpt.com/g/g-1WDrqk230-flashcards-maker
 ![image](https://github.com/user-attachments/assets/ef8fc400-bfaf-483c-86b0-16d3275b7656)
 
@@ -75,7 +75,7 @@ https://chatgpt.com/g/g-1WDrqk230-flashcards-maker
 
 ## 🤝 Contribuciones
 
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar FlashCard, no dudes en abrir un issue o enviar un pull request.
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar FlashCards, no dudes en abrir un issue o enviar un pull request.
 
 ## 📄 Licencia
 
