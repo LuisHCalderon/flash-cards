@@ -1,8 +1,8 @@
 # FlashCards v. 1.9 📚✨
-![image](https://github.com/user-attachments/assets/47042173-f52c-45ec-8aab-64b6b0f000f1)
-![image](https://github.com/user-attachments/assets/99fd3403-dd43-4cb9-8c1f-e3b90a46c1c2)
-![image](https://github.com/user-attachments/assets/0156cb50-855d-432f-8e08-3ad5f276ece8)
-![image](https://github.com/user-attachments/assets/494d5b33-9b05-4e10-b0f3-75324cd0ab71)
+![image](https://github.com/user-attachments/assets/c634f7dd-7ccd-4ec9-9f89-32d85157352f)
+![image](https://github.com/user-attachments/assets/3329bd3f-a217-4925-82a0-55e9500f5414)
+![image](https://github.com/user-attachments/assets/34aa1427-f382-4871-875d-e7101ecf9fb6)
+![image](https://github.com/user-attachments/assets/8b99995a-e2cf-4c9b-840e-18c46f66c613)
 
 Potencia tu aprendizaje con FlashCards, la herramienta definitiva para crear, gestionar y estudiar de manera eficiente.
 
@@ -71,6 +71,7 @@ https://chatgpt.com/g/g-1WDrqk230-flashcards-maker
 4. Utiliza las flechas direccionales derecha e izquierda. Flecha hacia arriba cambia de modo normal a random o viceversa, flecha hacia abajo te muestra la definición.
 5. Permite sobreponer la aplicación por encima de las demás: click derecho y le das a Top.
 6. Permite resetear: click derecho, Reset, y volverás al principio.
+7. La aplicación muestra el último flashcard estudiado la última vez.
 
 ## 🤝 Contribuciones
 
