@@ -1,0 +1,637 @@
+Flashcard 1
+Concepto: Objetivo de la gestión de riesgos de modelo
+Definición: El objetivo principal de la gestión de riesgos de modelo es mitigar la posibilidad de pérdidas causadas por debilidades en el desarrollo, validación, implementación, uso y seguimiento de modelos, lo que podría llevar a decisiones erróneas en los negocios.
+
+Flashcard 2
+Concepto: Alcance de la regulación de la SBS
+Definición: La regulación es aplicable a entidades comprendidas en los literales A, C y D del artículo 16° de la Ley General, así como al Banco de la Nación, Banco Agropecuario, COFIDE y Fondo MIVIVIENDA S.A.
+
+Flashcard 3
+Concepto: Definición de Modelo
+Definición: Un modelo es un método cuantitativo o sistema que aplica teorías matemáticas, técnicas estadísticas, económicas o financieras y supuestos para procesar información cuantitativa o cualitativa en estimaciones cuantitativas utilizadas para la toma de decisiones.
+
+Flashcard 4
+Concepto: Categorización de Modelos
+Definición: Proceso que permite clasificar los modelos en función del nivel de riesgo que representan para la empresa, considerando factores como la materialidad, uso y complejidad.
+
+Flashcard 5
+Concepto: Inventario de Modelos
+Definición: Registro que deben mantener las empresas, que incluye al menos el nombre del modelo, su categorización, si fue desarrollado internamente o por un proveedor, riesgos asociados, y otros detalles especificados.
+
+Flashcard 6
+Concepto: Forzajes (Overrides)
+Definición: Ajustes realizados a los resultados generados por el modelo, basados en el juicio experto, para considerar factores que el modelo no contempló.
+
+Flashcard 7
+Concepto: Informe Anual de Gestión de Riesgos de Modelo
+Definición: Informe elaborado por la unidad de riesgos que debe incluir el estado de debilidades identificadas, las acciones tomadas y un cronograma de actividades relacionadas con el desarrollo, validación, implementación y seguimiento de modelos para los próximos 12 meses.
+
+Flashcard 8
+Concepto: Responsabilidades del Directorio en la Gestión de Riesgos de Modelo
+Definición: El Directorio es responsable de asignar recursos, aprobar políticas y asegurar que se asignen responsabilidades adecuadas para el desarrollo, validación, implementación, uso y seguimiento de los modelos.
+Flashcard 9
+Concepto: Riesgo de Modelo
+Definición: Posibilidad de pérdidas o consecuencias adversas derivadas de debilidades en el desarrollo, validación, implementación, uso y seguimiento de modelos. Puede surgir por especificaciones inadecuadas, estimaciones erradas, supuestos incorrectos, errores de cálculo, entre otros.
+
+Flashcard 10
+Concepto: Desarrollo de Modelos
+Definición: Proceso que incluye la definición del propósito del modelo, el diseño teórico y matemático, la selección de datos, la estimación y pruebas de consistencia, y la identificación de supuestos y limitaciones del modelo.
+
+Flashcard 11
+Concepto: Validación de Modelos
+Definición: Proceso de revisión independiente del desarrollo, implementación y uso del modelo para asegurar su eficacia y precisión. Incluye validación inicial y periódica.
+
+Flashcard 12
+Concepto: Implementación de Modelos
+Definición: Proceso que integra el modelo en la gestión de la empresa, asegurando que esté alineado con el uso previsto y que las unidades tengan acceso oportuno a los resultados del modelo.
+
+Flashcard 13
+Concepto: Uso de Modelos
+Definición: Empleo de los resultados del modelo en la toma de decisiones empresariales, asegurando que su uso sea consistente con los criterios de desarrollo y aprobación.
+
+Flashcard 14
+Concepto: Indicadores de Calidad del Modelo
+Definición: Indicadores utilizados para evaluar la precisión, robustez, bondad de ajuste, estabilidad y confiabilidad del modelo, asegurando que funcione conforme a los estándares establecidos.
+
+Flashcard 15
+Concepto: Seguimiento del Modelo
+Definición: Proceso de revisión periódica del desempeño del modelo para asegurar que sigue cumpliendo con los objetivos y estándares de calidad definidos.
+
+Flashcard 16
+Concepto: Comité de Riesgos de Modelo
+Definición: Órgano que puede ser constituido por el Directorio para supervisar el desarrollo, validación, implementación, uso y seguimiento de modelos, compuesto por miembros del Directorio y otros funcionarios clave.
+
+Flashcard 17
+Concepto: Funciones Especializadas en la Gestión de Riesgos de Modelo
+Definición: Roles específicos dentro de la empresa que se encargan de la gestión de riesgos de modelo, abarcando desde el desarrollo hasta el seguimiento de los mismos, asegurando independencia y experiencia.
+
+Flashcard 18
+Concepto: Manuales de Gestión de Riesgos de Modelo
+Definición: Documentos que deben incluir políticas y procedimientos para el desarrollo, validación, implementación, uso y seguimiento de modelos, además de medidas para asegurar la calidad de los datos.
+
+Flashcard 19
+Concepto: Documentación de Sustento
+Definición: Documentos que soportan el desarrollo, implementación, validación y seguimiento de un modelo, incluyendo actas de comités, bases de datos, códigos de programación y otros informes.
+
+Flashcard 20
+Concepto: Pruebas Retrospectivas (Backtesting)
+Definición: Pruebas que comparan los resultados estimados por el modelo con los resultados reales observados en un período de tiempo específico, con el fin de evaluar el desempeño del modelo.
+
+Flashcard 21
+Concepto: Motor de Cálculo
+Definición: Herramienta que contiene los elementos necesarios para el cálculo de los resultados del modelo, asegurando su funcionalidad y precisión.
+
+Flashcard 22
+Concepto: Apetito por el Riesgo
+Definición: Nivel de riesgo que una empresa está dispuesta a aceptar para alcanzar sus objetivos, tal como se define en el Reglamento de Gobierno Corporativo y de la Gestión Integral de Riesgos.
+
+Flashcard 23
+Concepto: Complejidad del Modelo
+Definición: Nivel de dificultad del modelo, determinado por su especificación, técnica de estimación, capacidad de interpretación, uso de datos alternativos, y otros factores que afectan su implementación y uso.
+
+Flashcard 24
+Concepto: Proveedor de Modelos
+Definición: Entidad o persona externa que desarrolla, valida o implementa modelos para una empresa. Las empresas son responsables del uso y riesgo asociado a los modelos provistos por terceros.
+
+Flashcard 25
+Concepto: Validación Cruzada
+Definición: Técnica utilizada en el desarrollo de modelos con inteligencia artificial para evitar problemas de sobreajuste, asegurando que el modelo generalice bien a nuevos datos.
+
+Flashcard 26
+Concepto: Sensibilidad del Modelo
+Definición: Análisis que evalúa cómo varían los resultados del modelo frente a cambios en las variables o supuestos, identificando situaciones en las que el modelo podría proporcionar información poco confiable.
+
+Flashcard 27
+Concepto: Categorías de Riesgo en Modelos
+Definición: Clasificación de los modelos basada en el nivel de riesgo, lo que determina la profundidad del seguimiento, la validación, y la necesidad de réplica completa del modelo.
+
+Flashcard 28
+Concepto: Materialidad del Modelo
+Definición: Variable que captura la magnitud del riesgo asociado al uso del modelo, influyendo en su categorización y en la gestión de riesgos de la empresa.
+
+Flashcard 29
+Concepto: Umbrales de Indicadores de Calidad
+Definición: Límites establecidos para los indicadores de calidad de un modelo, utilizados para determinar si el modelo opera dentro de parámetros aceptables.
+
+Flashcard 30
+Concepto: Informe de Validación
+Definición: Documento que presenta los resultados del proceso de validación de un modelo, incluyendo el desarrollo, implementación y seguimiento, y que debe ser aprobado por el comité de riesgos de modelo.
+
+Flashcard 31
+Concepto: Subcontratación de Procesos de Modelos
+Definición: Práctica donde una empresa contrata a un proveedor externo para desarrollar, validar o implementar modelos, aunque el seguimiento del modelo debe ser realizado por la empresa.
+
+Flashcard 32
+Concepto: Réplica del Modelo
+Definición: Proceso que consiste en reproducir el desarrollo del modelo basado en la documentación de sustento, incluyendo todos los componentes del modelo, para validar su precisión.
+
+Flashcard 33
+Concepto: Responsabilidad en la Contratación de Proveedores
+Definición: Las empresas asumen plena responsabilidad por el uso de modelos desarrollados, validados e implementados por proveedores, así como por el riesgo de modelo asociado.
+
+Flashcard 34
+Concepto: Plan de Acción para Cumplimiento de la Normativa
+Definición: Documento que las empresas deben presentar a la Superintendencia, detallando las acciones previstas, cronograma y responsables para la adecuación a las disposiciones del reglamento.
+
+Flashcard 35
+Concepto: Evaluación de Proveedores de Modelos
+Definición: Proceso mediante el cual una empresa evalúa si un modelo provisto por un tercero es adecuado para sus productos o población objetivo, considerando su diseño, limitaciones y riesgos.
+
+Flashcard 36
+Concepto: Estrategia de Continuidad de Modelos
+Definición: Plan que las empresas deben tener para asegurar la continuidad en el uso de modelos provistos por terceros, incluyendo acciones para migrar el modelo a la empresa u otro proveedor si es necesario.
+
+Flashcard 37
+Concepto: Evaluación de Sobreajuste
+Definición: Proceso de evaluación para modelos construidos con técnicas de inteligencia artificial, que revisa si el modelo se ajusta excesivamente a los datos de entrenamiento, comprometiendo su capacidad de generalización.
+
+Flashcard 38
+Concepto: Modificación del Reglamento de Auditoría Interna
+Definición: Cambios realizados al Reglamento de Auditoría Interna para incluir la evaluación del cumplimiento de las disposiciones en el Reglamento de Gestión de Riesgos de Modelo.
+
+Flashcard 39
+Concepto: Implementación Gradual de la Regulación
+Definición: Aplicación progresiva de los capítulos del Reglamento de Gestión de Riesgos de Modelo para diferentes tipos de empresas y modelos categorizados según niveles de riesgo.
+
+Flashcard 40
+Concepto: Indicadores de Riesgo de Modelos de Proveedores
+Definición: Indicadores que las empresas deben considerar cuando utilizan modelos desarrollados por proveedores, evaluando si estos son consistentes con las políticas de gestión de riesgos de la empresa.
+
+Flashcard 41
+Concepto: Tipos de Modelos de Riesgo de Crédito
+Definición: Incluyen modelos de calificación (scoring y rating), estimación de ingresos, pruebas de estrés de riesgo de crédito, pricing de operaciones, tasaciones de garantías, y otros relacionados con la gestión del riesgo de crédito.
+
+Flashcard 42
+Concepto: Tipos de Modelos de Riesgo de Mercado
+Definición: Incluyen Valor en Riesgo (VaR), Valor en Riesgo Condicional (CVaR), modelos de medición del riesgo de tasa de interés estructural, valorización de instrumentos financieros ilíquidos, y otros relacionados con la gestión del riesgo de mercado.
+
+Flashcard 43
+Concepto: Tipos de Modelos de Riesgo de Liquidez
+Definición: Incluyen modelos de estrés de riesgos de liquidez, Liquidity at Risk (LaR), y modelos de distribución para partidas sin vencimiento contractual, entre otros utilizados en la gestión del riesgo de liquidez.
+
+Flashcard 44
+Concepto: Tipos de Modelos de Riesgo Operacional
+Definición: Incluyen modelos para la estimación del nivel de exposición al riesgo operacional, detección de fraudes, y otros utilizados en la gestión del riesgo operacional.
+
+Flashcard 45
+Concepto: Tipos de Modelos de Riesgo de Lavado de Activos y Financiamiento del Terrorismo
+Definición: Incluyen modelos de calificación de riesgos para clientes (scoring), estimación del nivel de exposición a los riesgos de LA/FT, y otros modelos utilizados en la gestión de estos riesgos.
+
+Flashcard 46
+Concepto: Exposición Asociada a Modelos
+Definición: Monto estimado de las exposiciones que se gestionan con el modelo, expresado en soles y relacionado con saldos de colocaciones, líneas de crédito no utilizadas, valores contables, entre otros.
+
+Flashcard 47
+Concepto: Especificación del Modelo
+Definición: Tipo de especificación matemática o estadística utilizada en el modelo, como logit, árboles de clasificación, regresión lineal, redes neuronales, boosting, entre otros.
+
+Flashcard 48
+Concepto: Variable Dependiente en un Modelo
+Definición: Definición de la variable dependiente del modelo o el resultado que se quiere obtener con el modelo, clave para la interpretación de los resultados.
+
+Flashcard 49
+Concepto: Relación con Otros Reglamentos
+Definición: Aplicación de criterios señalados en reglamentos como los de Riesgo de Crédito, Liquidez, Mercado, Operacional, y otros, en relación con la infraestructura tecnológica y la gestión de datos.
+
+Flashcard 50
+Concepto: Modelos Internos para Requerimientos Patrimoniales
+Definición: Las empresas financieras que utilicen modelos internos para calcular requerimientos patrimoniales deben cumplir tanto con el Reglamento de Gestión de Riesgos de Modelo como con los reglamentos específicos de requerimientos patrimoniales.
+
+Flashcard 51
+Concepto: Modelos para la Gestión de Riesgos de LA/FT
+Definición: Exceptuados de ciertos artículos del Reglamento de Gestión de Riesgos de Modelo, pero deben cumplir con los requisitos específicos para la gestión de riesgos de lavado de activos y financiamiento del terrorismo.
+
+Flashcard 52
+Concepto: Requerimientos Adicionales de la Superintendencia
+Definición: La Superintendencia puede requerir estudios externos elaborados por consultores especializados para evaluar el cumplimiento parcial o total de las disposiciones del reglamento.
+
+Flashcard 53
+Concepto: Informe de Cumplimiento
+Definición: Documento requerido para empresas que utilizan métodos basados en calificaciones internas (IRB) para enviar el informe de cumplimiento según el Reglamento para el Requerimiento de Patrimonio Efectivo por Riesgo de Crédito.
+
+Flashcard 54
+Concepto: Evaluación de Riesgos de Modelos Proveídos por Terceros
+Definición: Las empresas deben evaluar el diseño, limitaciones, supuestos y calidad de los modelos desarrollados por proveedores para asegurar su consistencia con las políticas de gestión de riesgos de la empresa.
+
+Flashcard 55
+Concepto: Riesgos Catastróficos
+Definición: Los modelos actuariales para la gestión de reservas técnicas y riesgos catastróficos están sujetos a disposiciones específicas en el Reglamento para la Constitución de la Reserva de Riesgos Catastróficos.
+
+Flashcard 56
+Concepto: Nivel de Automatización en la Implementación de Modelos
+Definición: La implementación del modelo debe asegurar que el nivel de automatización y soporte informático sea adecuado para el alcance y uso del modelo.
+
+Flashcard 57
+Concepto: Accesibilidad de Resultados del Modelo
+Definición: Las unidades que utilizan el modelo deben tener acceso oportuno y claro a los resultados, presentados de manera comprensible para apoyar la toma de decisiones.
+
+Flashcard 58
+Concepto: Entrenamiento en el Uso de Modelos
+Definición: Las empresas deben proporcionar capacitación sobre el uso de los modelos para asegurar que los funcionarios entiendan sus resultados y los riesgos asociados a forzajes y excepciones.
+
+Flashcard 59
+Concepto: Auditoría Interna y Gestión de Riesgos de Modelo
+Definición: La auditoría interna debe incluir en su Plan Anual de Trabajo la revisión de las disposiciones establecidas en el Reglamento de Gestión de Riesgos de Modelo.
+
+Flashcard 60
+Concepto: Pruebas de Estrés en Modelos
+Definición: Análisis que estresa variables o cambia supuestos para identificar escenarios en los que el modelo puede proporcionar resultados poco confiables, evaluando así su robustez.
+
+Flashcard 61
+Concepto: Contratación de Proveedores Significativos
+Definición: Modelos provistos por terceros que son significativos para la empresa deben ser evaluados en términos de su impacto en la gestión de riesgos y estar sujetos a seguimiento constante.
+
+Flashcard 62
+Concepto: Funcionario Responsable del Desarrollo de Modelos
+Definición: Deben estar libres de conflictos de interés y ser independientes de las unidades de negocios, inversiones, o cualquier unidad involucrada en la evaluación y originación de operaciones.
+
+Flashcard 63
+Concepto: Funcionario Responsable de la Validación de Modelos
+Definición: Deben ser independientes de los desarrolladores del modelo y de los usuarios de los resultados, asegurando la imparcialidad en el proceso de validación.
+
+Flashcard 64
+Concepto: Retroalimentación en la Gestión de Modelos
+Definición: Los funcionarios responsables de la implementación y uso de los modelos deben proporcionar retroalimentación continua a los desarrolladores y validadores para mejorar la gestión de riesgos.
+
+Flashcard 65
+Concepto: Evaluación de Impacto de Factores Externos
+Definición: Evaluación periódica de cómo factores externos o situaciones de crisis pueden afectar el desempeño de los modelos, con propuestas de acciones o estrategias para mitigar impactos.
+
+Flashcard 66
+Concepto: Calidad de los Datos en Modelos
+Definición: Las empresas deben asegurar que los datos utilizados en los modelos sean de alta calidad, representativos y comparables a la población objetivo para la cual el modelo fue diseñado.
+
+Flashcard 67
+Concepto: Informe Anual sobre Modelos Planificados
+Definición: El informe anual debe incluir el estado de los modelos que se planificó desarrollar o modificar en los últimos 12 meses y las actividades futuras relacionadas con modelos.
+
+Flashcard 68
+Concepto: Toma de Acciones ante Debilidades en Modelos
+Definición: Las empresas deben tomar medidas correctivas cuando se identifiquen debilidades en los modelos, y priorizar dichas acciones según su impacto en los resultados del modelo.
+
+Flashcard 69
+Concepto: Evaluación de Forzajes en Modelos
+Definición: Evaluación de la razonabilidad y relevancia de los forzajes (overrides) realizados en los modelos, verificando que estos ajustes sean apropiados y justificados.
+
+Flashcard 70
+Concepto: Política de Gestión de Riesgos en Modelos
+Definición: El Directorio debe aprobar políticas que guíen el desarrollo, validación, implementación, uso y seguimiento de modelos, asegurando la alineación con la estrategia de gestión de riesgos de la empresa.
+
+Flashcard 71
+Concepto: Procedimientos de Control en Modelos
+Definición: Las empresas deben implementar procedimientos de control para identificar y corregir debilidades en los modelos, asegurando una adecuada gestión del riesgo de modelo.
+
+Flashcard 72
+Concepto: Seguimiento de Indicadores de Calidad
+Definición: Las empresas deben realizar un seguimiento continuo de los indicadores de calidad del modelo, comparando los resultados con los umbrales definidos y actuando cuando se detecten desviaciones.
+
+Flashcard 73
+Concepto: Frecuencia del Seguimiento de Modelos
+Definición: El seguimiento de modelos debe realizarse al menos una vez al año, aunque la frecuencia puede variar según la categorización del modelo y su importancia para la empresa.
+
+Flashcard 74
+Concepto: Pruebas de Valorización de Instrumentos Financieros
+Definición: Modelos utilizados para valorar instrumentos financieros ilíquidos o derivados deben someterse a pruebas que aseguren su precisión, especialmente cuando no existen precios de mercado disponibles.
+
+Flashcard 75
+Concepto: Pruebas de Backtesting
+Definición: Pruebas que comparan los resultados generados por el modelo con los datos históricos observados, evaluando así la capacidad predictiva y la fiabilidad del modelo.
+
+Flashcard 76
+Concepto: Indicadores Cuantitativos de Calidad del Modelo
+Definición: Indicadores que miden aspectos como la precisión, robustez y bondad de ajuste del modelo, permitiendo una evaluación cuantitativa de su desempeño.
+
+Flashcard 77
+Concepto: Indicadores Cualitativos de Calidad del Modelo
+Definición: Indicadores que evalúan aspectos como la capacidad de interpretación y la consistencia teórica del modelo, proporcionando una evaluación cualitativa de su funcionamiento.
+
+Flashcard 78
+Concepto: Ajustes en Modelos por Cambios de Supuestos
+Definición: Los modelos deben ser ajustados cuando los supuestos originales ya no sean válidos, asegurando que el modelo siga siendo relevante y preciso en el entorno actual.
+
+Flashcard 79
+Concepto: Supervisión del Comité de Riesgos
+Definición: El comité de riesgos debe supervisar la gestión de riesgos de modelo, asegurando que los modelos utilizados sean validados, implementados y monitoreados adecuadamente.
+
+Flashcard 80
+Concepto: Validación Periódica de Modelos
+Definición: Proceso de revisión regular de los modelos para asegurar que continúan cumpliendo con los criterios de calidad y riesgos establecidos, y que los cambios en los modelos sean correctamente implementados.
+
+Flashcard 81
+Concepto: Validación de Datos Utilizados en Modelos
+Definición: Verificación de que los datos empleados en los modelos sean adecuados, representativos y de alta calidad, asegurando la fiabilidad de los resultados generados.
+
+Flashcard 82
+Concepto: Plan Anual de Validación
+Definición: Documento que detalla las actividades de validación que se realizarán durante el año, incluyendo los modelos a validar, la frecuencia de validación y los responsables del proceso.
+
+Flashcard 83
+Concepto: Desviaciones en Indicadores de Calidad
+Definición: Cualquier desviación significativa de los indicadores de calidad respecto a los umbrales establecidos debe ser identificada y corregida para evitar riesgos adicionales.
+
+Flashcard 84
+Concepto: Revisión de la Categoría de Riesgo de Modelos
+Definición: Proceso de reevaluación de la categoría de riesgo asignada a los modelos para asegurarse de que siguen reflejando correctamente el riesgo que representan para la empresa.
+
+Flashcard 85
+Concepto: Criterios para la Validación de Modelos
+Definición: Conjunto de normas y procedimientos que deben seguirse durante la validación de modelos, asegurando la consistencia y precisión de los resultados obtenidos.
+
+Flashcard 86
+Concepto: Evaluación del Impacto de Forzajes
+Definición: Proceso de evaluación para determinar cómo los forzajes (overrides) afectan los resultados del modelo, asegurando que los ajustes sean razonables y necesarios.
+
+Flashcard 87
+Concepto: Contratación de Proveedores No Significativos
+Definición: Evaluación y seguimiento de modelos provistos por terceros no significativos, garantizando que su impacto en la gestión de riesgos de la empresa sea mínimo.
+
+Flashcard 88
+Concepto: Gestión de Riesgos Operacionales Relacionados con Proveedores
+Definición: Las empresas deben gestionar los riesgos operacionales asociados a la contratación de proveedores de modelos, siguiendo políticas y procedimientos establecidos para tal fin.
+
+Flashcard 89
+Concepto: Estrategia de Mitigación Temporal
+Definición: Medidas temporales que las empresas deben implementar cuando se identifican debilidades en los modelos y no pueden ser corregidas de inmediato, para mitigar el riesgo hasta que se solucione.
+
+Flashcard 90
+Concepto: Toma de Decisiones Basada en Modelos
+Definición: Uso de los resultados de los modelos para apoyar decisiones empresariales clave, asegurando que los modelos utilizados sean adecuados y válidos para el contexto.
+
+Flashcard 91
+Concepto: Diseño del Modelo
+Definición: Proceso que incluye la definición del propósito del modelo, la especificación matemática, los criterios de juicio experto, y la selección y estimación de datos.
+
+Flashcard 92
+Concepto: Análisis de Sensibilidad de Modelos
+Definición: Evaluación de cómo los cambios en las variables de entrada afectan los resultados del modelo, identificando áreas de mayor riesgo o vulnerabilidad.
+
+Flashcard 93
+Concepto: Optimización de Hiperparámetros
+Definición: Proceso utilizado en modelos de inteligencia artificial para ajustar los parámetros del modelo y mejorar su rendimiento, evitando problemas de sobreajuste.
+
+Flashcard 94
+Concepto: Evaluación de Modelos Benchmark
+Definición: Comparación de los resultados del modelo con un modelo de referencia (benchmark) para evaluar la consistencia y precisión de los resultados obtenidos.
+
+Flashcard 95
+Concepto: Contratación de Servicios de Modelos por Terceros
+Definición: Procedimiento que incluye la evaluación, contratación y seguimiento de servicios provistos por terceros, asegurando que los modelos contratados cumplan con los requisitos de la empresa.
+
+Flashcard 96
+Concepto: Actualización del Inventario de Modelos
+Definición: Proceso de mantener actualizado el inventario de modelos utilizado por la empresa, asegurando que toda la información relevante esté disponible y correcta.
+
+Flashcard 97
+Concepto: Proceso de Réplica Completa
+Definición: Reproducción detallada del desarrollo del modelo para asegurar que los resultados son consistentes y que el modelo funciona como se espera, especialmente para modelos de alto riesgo.
+
+Flashcard 98
+Concepto: Evaluación de Riesgos en Proveedores de Modelos
+Definición: Análisis de los riesgos asociados con los modelos desarrollados por proveedores, incluyendo la revisión de su diseño, supuestos, y limitaciones, para asegurar su idoneidad.
+
+Flashcard 99
+Concepto: Estrategia de Migración de Modelos
+Definición: Plan desarrollado para transferir el uso de un modelo de un proveedor a otro o a la propia empresa, garantizando la continuidad en la gestión de riesgos sin interrupciones.
+
+Flashcard 100
+Concepto: Gestión del Riesgo de Sobreajuste
+Definición: Proceso de identificación y mitigación del sobreajuste en modelos, especialmente en aquellos construidos con técnicas de inteligencia artificial, para mejorar su capacidad de generalización.
+
+Flashcard 101
+Concepto: Gestión Integral de Riesgos
+Definición: Enfoque que abarca la identificación, evaluación, control y monitoreo de todos los riesgos a los que se enfrenta la empresa, asegurando un marco de gestión de riesgos sólido y coherente.
+
+Flashcard 102
+Concepto: Uso Apropiado de Resultados de Modelos
+Definición: Aseguramiento de que los resultados generados por los modelos son utilizados adecuadamente en la toma de decisiones, considerando las limitaciones y riesgos inherentes del modelo.
+
+Flashcard 103
+Concepto: Políticas de Desarrollo de Modelos
+Definición: Conjunto de directrices aprobadas por el Directorio que guían el proceso de desarrollo de modelos dentro de la empresa, asegurando la coherencia con los objetivos y el apetito por el riesgo.
+
+Flashcard 104
+Concepto: Categorización de Proveedores de Modelos
+Definición: Proceso de clasificación de proveedores según la significancia del modelo que proveen, lo cual determina el nivel de supervisión y control que debe aplicarse.
+
+Flashcard 105
+Concepto: Evaluación Independiente de Modelos
+Definición: Validación llevada a cabo por una unidad o persona independiente del desarrollo y uso del modelo, garantizando una evaluación objetiva y sin conflictos de interés.
+
+Flashcard 106
+Concepto: Calidad de las Variables de Modelos
+Definición: Evaluación de la coherencia y relevancia de las variables seleccionadas en el modelo, asegurando que capturan los factores de riesgo adecuados y reflejan correctamente el propósito del modelo.
+
+Flashcard 107
+Concepto: Informes de Seguimiento de Modelos
+Definición: Documentos que detallan los resultados del seguimiento de los modelos, incluyendo el desempeño de los indicadores de calidad, y las acciones correctivas tomadas si es necesario.
+
+Flashcard 108
+Concepto: Responsabilidad del Uso de Modelos por Terceros
+Definición: Las empresas son responsables del uso de modelos provistos por terceros y deben garantizar que estos modelos se adecuen a sus políticas de gestión de riesgos.
+
+Flashcard 109
+Concepto: Contratación de Modelos de Matriz
+Definición: Modelos desarrollados por la casa matriz de la empresa que deben ser evaluados para asegurar que son adecuados para el contexto específico de la filial o subsidiaria que los utiliza.
+
+Flashcard 110
+Concepto: Actualización de Análisis de Sensibilidad
+Definición: Proceso de revisión y actualización regular del análisis de sensibilidad del modelo para asegurarse de que sigue siendo relevante y capaz de identificar riesgos emergentes.
+
+Flashcard 111
+Concepto: Aplicación de Modelos a Productos Específicos
+Definición: Evaluación de la idoneidad del modelo para aplicarlo a productos específicos de la empresa, asegurando que los resultados sean relevantes y precisos para el contexto de uso.
+
+Flashcard 112
+Concepto: Implementación de Planes de Acción Correctiva
+Definición: Las empresas deben establecer e implementar planes de acción correctiva cuando se detectan debilidades en los modelos, con el objetivo de mitigar el riesgo identificado.
+
+Flashcard 113
+Concepto: Monitoreo de Factores Externos
+Definición: Las empresas deben monitorear continuamente los factores externos que puedan impactar el desempeño de los modelos, adaptando sus estrategias de gestión de riesgos según sea necesario.
+
+Flashcard 114
+Concepto: Gestión del Riesgo de Modelos de Inteligencia Artificial
+Definición: Las empresas deben gestionar los riesgos específicos asociados con modelos basados en inteligencia artificial, incluyendo la interpretación de resultados y la validación cruzada.
+
+Flashcard 115
+Concepto: Informes de Validación Interna
+Definición: Documentos preparados por la unidad de validación interna que detallan los hallazgos y recomendaciones derivadas del proceso de validación de los modelos utilizados en la empresa.
+
+Flashcard 116
+Concepto: Evaluación de Modelos de Uso Limitado
+Definición: Revisión de los modelos que tienen un uso limitado dentro de la empresa para asegurarse de que siguen siendo necesarios y que su mantenimiento es justificado.
+
+Flashcard 117
+Concepto: Riesgo de Liquidez en Modelos
+Definición: Los modelos que gestionan el riesgo de liquidez deben ser evaluados por su capacidad para prever situaciones de falta de liquidez y proporcionar soluciones adecuadas.
+
+Flashcard 118
+Concepto: Evaluación de Modelos de Riesgo de Mercado
+Definición: Proceso de revisión de los modelos utilizados para medir y gestionar el riesgo de mercado, asegurando que capturan adecuadamente los riesgos asociados con las fluctuaciones del mercado.
+
+Flashcard 119
+Concepto: Ajustes por Sesgos en Datos de Modelos
+Definición: Identificación y corrección de sesgos en los datos utilizados por el modelo para asegurar que los resultados no están distorsionados y reflejan la realidad del mercado.
+
+Flashcard 120
+Concepto: Evaluación de Modelos de Riesgo Operacional
+Definición: Proceso que asegura que los modelos que gestionan el riesgo operacional son efectivos en identificar, medir, y mitigar riesgos que puedan afectar las operaciones de la empresa.
+Flashcard 121
+Concepto: Gestión de Riesgos de Modelos para Seguros
+Definición: Las empresas de seguros deben cumplir con las disposiciones específicas del Reglamento de Gestión Actuarial y de la Reserva de Riesgos Catastróficos al desarrollar y utilizar modelos para gestionar riesgos técnicos.
+
+Flashcard 122
+Concepto: Gestión de Riesgos de Modelos para el Sistema Financiero
+Definición: Las empresas del sistema financiero que utilicen modelos para el cálculo de requerimientos patrimoniales deben seguir las normativas del Reglamento de Gestión de Riesgos de Modelo, además de los reglamentos específicos de capital.
+
+Flashcard 123
+Concepto: Implementación de Modelos para Riesgo de Crédito
+Definición: La implementación de modelos para gestionar el riesgo de crédito debe garantizar que los resultados sean utilizados correctamente en la evaluación y seguimiento del riesgo de crédito.
+
+Flashcard 124
+Concepto: Implementación de Modelos para Riesgo de Mercado
+Definición: Las empresas deben asegurar que los modelos para la gestión del riesgo de mercado, como VaR y CVaR, sean implementados con sistemas automatizados que permitan un seguimiento continuo y preciso.
+
+Flashcard 125
+Concepto: Implementación de Modelos para Riesgo de Liquidez
+Definición: Modelos utilizados para gestionar el riesgo de liquidez deben ser implementados para asegurar que la empresa pueda responder adecuadamente a situaciones de estrés de liquidez.
+
+Flashcard 126
+Concepto: Implementación de Modelos para Riesgo Operacional
+Definición: Las empresas deben implementar modelos de riesgo operacional que incluyan mecanismos para detectar y mitigar fraudes y otros eventos adversos operacionales.
+
+Flashcard 127
+Concepto: Evaluación de Modelos Actuariales
+Definición: Los modelos actuariales utilizados para calcular reservas técnicas deben ser evaluados para asegurar que reflejan con precisión los riesgos técnicos y están alineados con las mejores prácticas del sector.
+
+Flashcard 128
+Concepto: Ajuste de Modelos en Función del Juicio Experto
+Definición: Los modelos pueden ser ajustados según el juicio experto para reflejar condiciones específicas del mercado o de la empresa, siempre y cuando estos ajustes estén bien documentados y justificados.
+
+Flashcard 129
+Concepto: Supervisión de Modelos Proveídos por la Casa Matriz
+Definición: Las filiales deben supervisar y validar los modelos proveídos por la casa matriz para asegurar que son apropiados para su entorno específico y cumplen con las normativas locales.
+
+Flashcard 130
+Concepto: Monitoreo de Modelos de Alto Riesgo
+Definición: Los modelos categorizados como de alto riesgo deben ser monitoreados con mayor frecuencia y detalle, incluyendo la revisión de todos los componentes y resultados generados.
+
+Flashcard 131
+Concepto: Evaluación de Riesgo Residual en Modelos
+Definición: Las empresas deben evaluar el riesgo residual asociado con el uso de modelos, incluso después de implementar todas las medidas de control y mitigación posibles.
+
+Flashcard 132
+Concepto: Evaluación de Impacto de Cambios Regulatorios
+Definición: Las empresas deben revisar cómo los cambios en la regulación pueden afectar los modelos utilizados, asegurando que los modelos sigan siendo conformes y efectivos.
+
+Flashcard 133
+Concepto: Control Interno en la Gestión de Modelos
+Definición: La función de control interno debe asegurarse de que los modelos utilizados estén sujetos a controles adecuados y que se cumplan los procedimientos establecidos para su desarrollo y uso.
+
+Flashcard 134
+Concepto: Evaluación de la Eficacia de Modelos
+Definición: Proceso de evaluación regular que mide la eficacia del modelo en la gestión de los riesgos para los que fue diseñado, haciendo ajustes si es necesario.
+
+Flashcard 135
+Concepto: Capacidad de Interpretación de Modelos de IA
+Definición: Los modelos de inteligencia artificial deben ser diseñados y validados para asegurar que sus resultados puedan ser interpretados correctamente por los usuarios finales.
+
+Flashcard 136
+Concepto: Gestión del Ciclo de Vida de los Modelos
+Definición: Gestión integral que abarca desde el desarrollo inicial del modelo hasta su eventual retiro o reemplazo, asegurando su relevancia y precisión durante todo su ciclo de vida.
+
+Flashcard 137
+Concepto: Gestión de Cambios en Modelos
+Definición: Cualquier cambio en las variables, supuestos o parámetros del modelo debe ser cuidadosamente gestionado y documentado para evitar efectos adversos inesperados.
+
+Flashcard 138
+Concepto: Evaluación del Desempeño del Proveedor
+Definición: Las empresas deben evaluar periódicamente el desempeño de los proveedores de modelos, asegurando que cumplen con los estándares de calidad y fiabilidad exigidos.
+
+Flashcard 139
+Concepto: Modelos de Tasación de Garantías
+Definición: Modelos que estiman el valor de garantías en operaciones de crédito, los cuales deben ser validados para asegurar que los valores estimados sean realistas y precisos.
+
+Flashcard 140
+Concepto: Gestión de Modelos de Cobranza
+Definición: Modelos utilizados para optimizar la recuperación de deudas deben ser validados para asegurar que las estrategias de cobranza sean efectivas y alineadas con los objetivos de la empresa.
+
+Flashcard 141
+Concepto: Estrategia de Pruebas de Estrés
+Definición: Las empresas deben desarrollar una estrategia de pruebas de estrés que considere escenarios extremos para evaluar cómo los modelos se comportan bajo condiciones adversas.
+
+Flashcard 142
+Concepto: Capacitación Continua en Gestión de Modelos
+Definición: Los funcionarios involucrados en la gestión de modelos deben recibir capacitación continua para mantenerse actualizados sobre las mejores prácticas y nuevas tecnologías en modelización.
+
+Flashcard 143
+Concepto: Evaluación de Modelos de Estimación de Ingresos
+Definición: Modelos que predicen ingresos deben ser validados regularmente para asegurar que las proyecciones son precisas y reflejan las tendencias actuales del mercado.
+
+Flashcard 144
+Concepto: Modelos de Pricing de Operaciones
+Definición: Modelos que determinan los precios de operaciones de crédito deben ser evaluados para asegurar que los precios establecidos son competitivos y adecuados para el riesgo asumido.
+
+Flashcard 145
+Concepto: Gestión de Modelos de Scoring
+Definición: Modelos de scoring, utilizados para evaluar el riesgo crediticio de los clientes, deben ser validados para asegurar que las puntuaciones reflejan correctamente la probabilidad de incumplimiento.
+
+Flashcard 146
+Concepto: Evaluación de Modelos de Rating
+Definición: Modelos de rating, que clasifican la calidad crediticia de emisores o instrumentos financieros, deben ser validados para asegurar que las calificaciones otorgadas sean precisas y consistentes.
+
+Flashcard 147
+Concepto: Gestión de Modelos de Riesgo Cambiario
+Definición: Modelos que evalúan el riesgo cambiario deben ser validados para asegurar que las fluctuaciones en las tasas de cambio se gestionen adecuadamente, minimizando la exposición de la empresa.
+
+Flashcard 148
+Concepto: Evaluación de Modelos de Riesgo País
+Definición: Modelos que miden el riesgo asociado con la inversión en diferentes países deben ser validados para asegurar que capturan adecuadamente los factores políticos y económicos que afectan el riesgo país.
+
+Flashcard 149
+Concepto: Supervisión de Modelos de Riesgo de LA/FT
+Definición: Los modelos para la gestión de riesgos de lavado de activos y financiamiento del terrorismo deben ser revisados regularmente para asegurar que siguen siendo efectivos en la detección de actividades sospechosas.
+
+Flashcard 150
+Concepto: Supervisión de Modelos de Riesgo Actuarial
+Definición: Los modelos actuariales utilizados en la gestión de riesgos técnicos deben ser supervisados para asegurar que las reservas técnicas están adecuadamente calculadas y alineadas con los riesgos asumidos.
+
+Flashcard 151
+Concepto: Validación de Modelos de Gestión de Activos y Pasivos
+Definición: Modelos que ayudan a gestionar la relación entre activos y pasivos deben ser validados para asegurar que las estrategias implementadas minimizan los riesgos de descalce.
+
+Flashcard 152
+Concepto: Evaluación de Modelos de IFRS 9
+Definición: Los modelos utilizados para el cumplimiento de la norma IFRS 9, que afecta la clasificación y medición de activos financieros, deben ser validados para asegurar que cumplen con los requisitos normativos.
+
+Flashcard 153
+Concepto: Modelos de Distribución de Partidas Sin Vencimiento Contractual
+Definición: Modelos que estiman la distribución de partidas sin vencimiento contractual deben ser validados para asegurar que reflejan correctamente el comportamiento esperado de las partidas.
+
+Flashcard 154
+Concepto: Gestión de Modelos para Pruebas de Estrés de Liquidez
+Definición: Modelos utilizados para realizar pruebas de estrés de liquidez deben ser validados para asegurar que las simulaciones son precisas y reflejan escenarios realistas.
+
+Flashcard 155
+Concepto: Evaluación de Modelos de Valor Económico y Ganancias en Riesgo
+Definición: Modelos que miden el impacto de las tasas de interés en el valor económico y las ganancias deben ser validados para asegurar que capturan correctamente los riesgos estructurales.
+
+Flashcard 156
+Concepto: Supervisión de Modelos de Valoración de Instrumentos Derivados
+Definición: Modelos utilizados para valorar instrumentos derivados deben ser supervisados para asegurar que las valoraciones son precisas y reflejan el riesgo subyacente de los derivados.
+
+Flashcard 157
+Concepto: Gestión de Modelos para Sobreendeudamiento
+Definición: Modelos que evalúan el riesgo de sobreendeudamiento deben ser validados para asegurar que las evaluaciones reflejan con precisión la capacidad de pago de los clientes.
+
+Flashcard 158
+Concepto: Evaluación de Modelos de Recuperación de Deudas
+Definición: Modelos que predicen la recuperación de deudas deben ser validados para asegurar que las estrategias de recuperación son efectivas y maximizan la recaudación.
+
+Flashcard 159
+Concepto: Supervisión de Modelos de Optimización de Ofertas de Crédito
+Definición: Modelos utilizados para optimizar las ofertas de crédito deben ser supervisados para asegurar que las ofertas son competitivas y adecuadas para los perfiles de riesgo de los clientes.
+
+Flashcard 160
+Concepto: Supervisión de Modelos de Tasación de Garantías
+Definición: Modelos que tasan garantías deben ser supervisados para asegurar que las valoraciones son precisas y alineadas con el valor de mercado de las garantías.
