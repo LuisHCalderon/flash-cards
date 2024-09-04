@@ -73,6 +73,7 @@ https://chatgpt.com/g/g-1WDrqk230-flashcards-maker
 5. Permite sobreponer la aplicación por encima de las demás: click derecho y le das a Top.
 6. Permite resetear: click derecho, Reset, y volverás al principio.
 7. La aplicación muestra el último flashcard estudiado al reabrir la aplicación.
+8. Se puede cambiar de archivo de estudio desde el menú contextual.
 
 ## 🤝 Contribuciones
 
